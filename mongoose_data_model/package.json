@@ -1,0 +1,21 @@
+{
+  "name": "mongoose_data_model",
+  "version": "1.0.0",
+  "description": "a simple data model using  mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "data",
+    "model",
+    "node"
+  ],
+  "author": "mudassir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2"
+  }
+}
